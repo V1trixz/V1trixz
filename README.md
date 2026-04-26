@@ -19,7 +19,9 @@
   <h2 align="left">✦ Ａｂｏｕｔ  Ｍｅ</h2>
   <p align="left">
     <br>
-    <i>"Eu não durmo faz dias mano"</i>
+    <i>Eu não durmo faz dias mano</i>
+    <i>Criando jogos btw</i>
+    <i>Programando bots e quebrando sistemas🤣</i>
     <br><br><br><br><br>
   </p>
   
