@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Banner Aesthetic (Você pode trocar o link dessa imagem por qualquer GIF que achar foda) -->
+  <!-- Banner Aesthetic -->
   <img src="https://i.pinimg.com/originals/60/a6/63/60a66395ec64c502fb8ce546fbb2174d.gif" alt="Aesthetic Banner" width="100%">
   <br><br>
 
@@ -18,11 +18,9 @@
   
   <h2 align="left">✦ Ａｂｏｕｔ  Ｍｅ</h2>
   <p align="left">
-    <b><i>"Transformando noites em claro em linhas de código."</i></b><br><br>
-    🔭 Focado em <b>Desenvolvimento, Design e Código Limpo</b>.<br>
-    🌱 Explorando tecnologias para criar experiências únicas.<br>
-    ✨ Amante de setups minimalistas, animes e dark mode.<br>
-    ⚡ Eu não durmo, eu compilo.
+    <br>
+    <i>"Eu não durmo faz dias mano"</i>
+    <br><br><br><br><br>
   </p>
   
   <br clear="all">
@@ -39,17 +37,18 @@
   </a>
   <br><br><br>
 
-  <!-- Stats GitHub no tema Tokyo Night (Combina com os GIFs) -->
+  <!-- Stats GitHub no tema Tokyo Night -->
   <h2>✦ Ｓｔａｔｓ ✦</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=V1trixz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=24" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=V1trixz&theme=tokyonight&hide_border=true" height="180">
   <br><br><br>
 
-  <!-- Redes Sociais Minimalistas -->
+  <!-- Redes Sociais Minimalistas com seus dados -->
   <h2>✦ Ｃｏｎｎｅｃｔ ✦</h2>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=A9B1D6"></a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A9B1D6"></a>
-  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A9B1D6"></a>
+  <a href="mailto:v1trixz@proton.me">
+    <img src="https://img.shields.io/badge/v1trixz@proton.me-0D1117?style=for-the-badge&logo=proton&logoColor=A9B1D6">
+  </a>
+  <img src="https://img.shields.io/badge/Discord_-_V1trixz-0D1117?style=for-the-badge&logo=discord&logoColor=A9B1D6">
   <br><br><br>
 
   <!-- GIF de rodapé -->
