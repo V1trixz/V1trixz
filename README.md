@@ -17,13 +17,13 @@
   <img src="https://i.pinimg.com/originals/d6/33/1b/d6331b26cc0a7d9b97b0a34b2ce4b5de.gif" width="220" align="right" alt="Anime GIF">
   
   <h2 align="left">✦ Ａｂｏｕｔ  Ｍｅ</h2>
-  <p align="left">
-    <br>
-    <i>Eu não durmo faz dias mano</i>
-    <i>Criando jogos btw</i>
-    <i>Programando bots e quebrando sistemas🤣</i>
-    <br><br><br><br><br>
-  </p>
+<p align="left">
+  <br>
+  <i>Eu não durmo faz dias mano</i><br>
+  <i>Criando jogos btw</i><br>
+  <i>Programando bots e quebrando sistemas🤣</i>
+  <br><br><br><br><br>
+</p>
   
   <br clear="all">
   <br>
