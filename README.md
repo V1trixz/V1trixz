@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 Um pouco sobre mim
-- 🎓 Estudando **[Seu curso ou o que estuda]** na **[Instituição/Autodidata]**.
-- 💡 Foco principal: **[Ex: Desenvolvimento Web, Back-end, Criação de Jogos]**.
-- 🎯 Objetivo de 2024: Contribuir mais para o Open Source e dominar **[Sua meta]**.
+- 🎓 Estudando **Programação** na **Alura & PUCRS**.
+- 💡 Foco principal: **Desenvolvimento Web, Back-end, Criação de Jogos, Entre outros**.
+- 🎯 Objetivo de 2026: Contribuir mais para o Open Source e dominar **o mercado de jogos**.
 
 ### 💻 Tecnologias e Ferramentas
 
