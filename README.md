@@ -5,7 +5,7 @@
 
   <!-- Texto digitando com cor combinando com o tema -->
   <a href="https://github.com/V1trixz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Welcome+to+my+prfile+🗿;I'm+V1trixz;Crafting+insonia+code..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+🗿;I'm+V1trixz;Crafting+insonia+code..." alt="Typing SVG" />
   </a>
   <br><br>
 
