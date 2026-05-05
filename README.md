@@ -52,17 +52,17 @@ Sou um desenvolvedor focado em criar soluções eficientes e aprender novas tecn
 
 <div align="center">
   <!-- Card de Status Principal -->
-  <img src="https://github-readme-stats.vercel.app/api?username=v1trixz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=8A2BE2&count_private=true" alt="v1trixz GitHub Stats" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=v1trixz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=8A2BE2&count_private=true&v=1" alt="v1trixz GitHub Stats" height="190"/>
   
   <!-- Card de Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1trixz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1trixz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&v=1" alt="Top Languages" height="190"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Card de Ofensiva (Streak) alterado para o servidor mais estável -->
-  <img src="https://streak-stats.demolab.com/?user=v1trixz&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=8A2BE2" alt="GitHub Streak" />
+  <!-- Card de Ofensiva (Streak) -->
+  <img src="https://streak-stats.demolab.com/?user=v1trixz&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=8A2BE2&v=1" alt="GitHub Streak" />
 </div>
 
 ---
