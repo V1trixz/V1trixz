@@ -1,58 +1,99 @@
 <div align="center">
-  <!-- Banner Aesthetic -->
-  <img src="https://i.pinimg.com/originals/60/a6/63/60a66395ec64c502fb8ce546fbb2174d.gif" alt="Aesthetic Banner" width="100%">
+  <!-- GIF de cabeçalho (Opcional, mas dá um toque tech muito legal no tema escuro) -->
+  <img src="https://raw.githubusercontent.com/v1trixz/v1trixz/main/header.gif" onerror="this.src='https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif'" width="100%" height="200" style="object-fit: cover; border-radius: 10px;">
+
   <br><br>
 
-  <!-- Texto digitando com cor combinando com o tema -->
-  <a href="https://github.com/V1trixz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+🗿;I'm+V1trixz;Crafting+insonia+code..." alt="Typing SVG" />
+  <!-- Animação de Digitação -->
+  <a href="https://github.com/v1trixz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+o+v1trixz+👋;Programo+em+várias+linguagens...;Transformo+café+em+linhas+de+código!+☕;Desenvolvedor+apaixonado+por+tecnologia!&multiline=false" alt="Typing Animation" />
   </a>
-  <br><br>
+</div>
 
-  <!-- Linha divisória Aesthetic -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-  <br><br>
+<br>
 
-  <!-- Seção About Me com GIF do lado direito -->
-  <img src="https://i.pinimg.com/originals/d6/33/1b/d6331b26cc0a7d9b97b0a34b2ce4b5de.gif" width="220" align="right" alt="Anime GIF">
+<div align="center">
   
-  <h2 align="left">✦ Ａｂｏｕｔ  Ｍｅ</h2>
-<p align="left">
-  <br>
-  <i>Eu não durmo faz dias mano</i><br>
-  <i>Criando jogos btw</i><br>
-  <i>Programando bots e quebrando sistemas🤣</i>
-  <br><br><br><br><br>
-</p>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile!+✨)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 👨‍💻 Sobre Mim (About Me)
+
+<blockquote>
+Sou um desenvolvedor focado em criar soluções eficientes e aprender novas tecnologias todos os dias. Adoro o universo do código aberto, resolver problemas complexos e montar setups com tema escuro. 🌌
+</blockquote>
+
+- 🔭 **Atualmente trabalhando em:** [Nome do seu projeto atual]
+- 🌱 **Atualmente aprendendo:** [O que você está estudando? Ex: Rust, React, IA]
+- 👯 **Procuro colaborar em:** Projetos Open Source interessantes.
+- 💡 **Interesses:** Desenvolvimento Web, Backend, Automação e Design.
+- ⚡ **Curiosidade:** [Coloque um fato divertido sobre você, ex: Consigo debugar código sem usar console.log (mentira)]
+
+---
+
+### 🛠️ Minhas Tecnologias (Tech Stack)
+
+<div align="center">
+  <p>Linguagens, Frameworks e Ferramentas que utilizo no meu dia a dia:</p>
   
-  <br clear="all">
-  <br>
-
-  <!-- Linha divisória Aesthetic -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-  <br><br>
-
-  <!-- Tech Stack (Ícones Minimalistas) -->
-  <h2>✦ Ｔｅｃｈ  Ｓｔａｃｋ ✦</h2>
+  <!-- Aqui você altera os ícones. Basta mudar os nomes na URL abaixo após o "i=" -->
+  <!-- Lista de ícones disponíveis: https://github.com/tandpfun/skill-icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,git,figma,vscode&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,postgres&theme=dark" />
   </a>
-  <br><br><br>
+</div>
 
-  <!-- Stats GitHub no tema Tokyo Night -->
-  <h2>✦ Ｓｔａｔｓ ✦</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=V1trixz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=24" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V1trixz&theme=tokyonight&hide_border=true" height="180">
-  <br><br><br>
+---
 
-  <!-- Redes Sociais Minimalistas com seus dados -->
-  <h2>✦ Ｃｏｎｎｅｃｔ ✦</h2>
-  <a href="mailto:v1trixz@proton.me">
-    <img src="https://img.shields.io/badge/v1trixz@proton.me-0D1117?style=for-the-badge&logo=proton&logoColor=A9B1D6">
+### 📊 Estatísticas do GitHub (Stats)
+
+<div align="center">
+  <!-- Card de Status Principal -->
+  <img src="https://github-readme-stats.vercel.app/api?username=v1trixz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=8A2BE2" alt="v1trixz GitHub Stats" height="190"/>
+  
+  <!-- Card de Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1trixz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages" height="190"/>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Card de Ofensiva (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v1trixz&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=8A2BE2" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📬 Contato (Contact)
+
+<div align="center">
+  <p>Sinta-se à vontade para me mandar uma mensagem!</p>
+
+  <!-- Edite os links nos href="#" com suas redes reais -->
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Discord_-_V1trixz-0D1117?style=for-the-badge&logo=discord&logoColor=A9B1D6">
-  <br><br><br>
+  <a href="https://linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/seu-id-do-discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/seu-perfil">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-  <!-- GIF de rodapé -->
-  <img src="https://i.pinimg.com/originals/82/13/2a/82132a2f4ab6cf7c7cb1734bc1f5a549.gif" width="100" alt="Cat GIF">
+<br>
+
+<!-- Linha animada de rodapé -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/v1trixz/v1trixz/main/wave.gif" onerror="this.src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif'" width="100%">
 </div>
