@@ -4,7 +4,7 @@
   <br><br>
 
   <a href="https://github.com/v1trixz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Ola,+eu+sou+o+v1trixz;Programo+em+120++linguagens...;Transformo+cafe+em+linhas+de+codigo;Desenvolvedor+apaixonado+por+tecnologia" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Ola,+eu+sou+o+v1trixz;Programo+em+20/30+linguagens...;Transformo+cafe+em+linhas+de+codigo;Desenvolvedor+apaixonado+por+tecnologia" alt="Typing Animation" />
   </a>
 </div>
 
