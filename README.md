@@ -1,10 +1,8 @@
 <div align="center">
-  <!-- GIF de cabeçalho -->
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px;">
 
   <br><br>
 
-  <!-- Animação de Digitação (Sem acentos ou emojis para não quebrar a API) -->
   <a href="https://github.com/v1trixz">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Ola,+eu+sou+o+v1trixz;Programo+em+varias+linguagens...;Transformo+cafe+em+linhas+de+codigo;Desenvolvedor+apaixonado+por+tecnologia" alt="Typing Animation" />
   </a>
@@ -24,11 +22,11 @@
 Sou um desenvolvedor focado em criar soluções eficientes e aprender novas tecnologias todos os dias. Adoro o universo do código aberto, resolver problemas complexos e montar setups com tema escuro. 🌌
 </blockquote>
 
-- 🔭 **Atualmente trabalhando em:** [Nome do seu projeto atual]
-- 🌱 **Atualmente aprendendo:** [O que você está estudando?]
+- 🔭 **Atualmente trabalhando em:** Projetos pessoais
+- 🌱 **Atualmente aprendendo:** Novas Tecnologias
 - 👯 **Procuro colaborar em:** Projetos Open Source interessantes.
 - 💡 **Interesses:** Desenvolvimento Web, Backend, Automação e Design.
-- ⚡ **Curiosidade:** [Coloque um fato divertido sobre você]
+- ⚡ **Curiosidade:** Consigo debugar código sem usar console.log
 
 ---
 
@@ -51,18 +49,15 @@ Sou um desenvolvedor focado em criar soluções eficientes e aprender novas tecn
 ### 📊 Estatísticas do GitHub (Stats)
 
 <div align="center">
-  <!-- Card de Status Principal -->
-  <img src="https://github-readme-stats.vercel.app/api?username=v1trixz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=8A2BE2&count_private=true&v=1" alt="v1trixz GitHub Stats" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=v1trixz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=8A2BE2&cache_seconds=86400" alt="v1trixz GitHub Stats" height="190"/>
   
-  <!-- Card de Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1trixz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&v=1" alt="Top Languages" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1trixz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&cache_seconds=86400" alt="Top Languages" height="190"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Card de Ofensiva (Streak) -->
-  <img src="https://streak-stats.demolab.com/?user=v1trixz&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=8A2BE2&v=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=v1trixz&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=8A2BE2&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 ---
